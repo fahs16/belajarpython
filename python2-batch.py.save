@@ -1,0 +1,7 @@
+huruf = "kata"
+bil = 200
+
+var1 = unichr(bil)
+
+print var1
+print var2
