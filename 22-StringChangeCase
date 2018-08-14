@@ -1,0 +1,26 @@
+x = "sholatlah sebelum kau disholatkan"
+y = "DUNIA HANYA FANA, HANYA SESAAT"
+z = "JaNgAn NuLiS AlAy KeCuAlI NuLis PaS5WorD"
+
+print("""
+Mengubah Karakter String
+	
+	Dibawah ini adalah beberapa metode untuk 
+	merubah karakter string :
+	1. upper : mengubah string menjadi huruf
+				besar semua
+	2. title : untuk mengubah huruf pertama dlm
+			satu kata menjadi huruf besar semua
+	3. lower : mengubah huruf menjadi huruf
+			kecil semua
+	4. capitalize : mengubah huruf pertama dlm
+			kalimat menjadi huruf besar
+	5. swapcase : mengubah huruf kecil menjadi
+			besar, dan sebaliknya
+""")
+
+print(x.upper())
+print(x.title())
+print(y.lower())
+print(y.capitalize())
+print(z.swapcase())
